@@ -1,0 +1,13 @@
+# Archivos compilados de Java
+*.class
+
+# Carpetas de compilación
+bin/
+out/
+
+# Configuración personal del editor
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
